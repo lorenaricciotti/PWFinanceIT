@@ -1,5 +1,3 @@
-# PublicWorksFinanceIT 0.2.0
-
 # PublicWorksFinanceIT 0.1.0
 
 * Initial CRAN submission.
